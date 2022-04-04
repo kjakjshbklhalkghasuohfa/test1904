@@ -1,0 +1,5 @@
+package com.bjpowrnode.domain;
+
+public class Person {
+    private int id;
+}
